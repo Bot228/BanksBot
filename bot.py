@@ -8,7 +8,7 @@ from requests.exceptions import ReadTimeout
 telebot.logging.basicConfig(filename='history.log',level=logging.DEBUG,
                     format=' %(asctime)s - %(levelname)s - %(message)s')
 
-API_TOKEN = 'TOKEN'
+API_TOKEN = '1391169462:AAG3l2DwCxs1Cys4kqh3L2cG32Od7ryb1ZY'
 bot = telebot.TeleBot(API_TOKEN)
 parse = Parse(bot)
 
