@@ -374,3 +374,4 @@ telebot.apihelper.ApiException: A request to the Telegram API was unsuccessful. 
  2020-07-07 14:37:14,420 - DEBUG - "GET /bot1391169462:AAG3l2DwCxs1Cys4kqh3L2cG32Od7ryb1ZY/getUpdates?offset=328727546&timeout=20 HTTP/1.1" 200 23
  2020-07-07 14:37:34,533 - DEBUG - "GET /bot1391169462:AAG3l2DwCxs1Cys4kqh3L2cG32Od7ryb1ZY/getUpdates?offset=328727546&timeout=20 HTTP/1.1" 200 23
  2020-07-07 14:37:54,766 - DEBUG - "GET /bot1391169462:AAG3l2DwCxs1Cys4kqh3L2cG32Od7ryb1ZY/getUpdates?offset=328727546&timeout=20 HTTP/1.1" 200 23
+ 2020-07-07 15:26:03,625 - INFO - Starting new HTTPS connection (1): api.telegram.org
